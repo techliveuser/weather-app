@@ -1,0 +1,19 @@
+.daily-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.daily-scroll {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+  padding: 10px;
+}
+
+.day-card {
+  min-width: 100px;
+  background: #f1f1f1;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+}
